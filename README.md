@@ -1,6 +1,6 @@
-# battlecode19
+# RunCraft
 
-Monorepo for Battlecode 2019 development.
+Monorepo for RunCraft development.
 
  - `/app`: Frontend dashboard and web IDE in React
  - `/api`: Backend API in Django Rest Framework
