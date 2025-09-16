@@ -1,0 +1,5 @@
+        # Exclude the 'dist' directory from language statistics
+        dist/* linguist-vendored
+
+        # Exclude all .css files
+        *.css linguist-detectable=false
